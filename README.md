@@ -9,13 +9,10 @@ Let it be a banded matrix $\mathbf{B}$, of order $n$ and band $r$ such as:
 
 $$
 \begin{equation}
-
-\mathbf{B_{r,n}} = \begin{bmatrix}
-
-
-
-\end{bmatrix}
-
+\mathbf{B_{r,n}} = 
+    \begin{bmatrix}
+        \\
+    \end{bmatrix}
 \end{equation}
 $$
 
