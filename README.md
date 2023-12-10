@@ -6,6 +6,7 @@ A fast inverse banded matrix utilities with explanations test
 Let it be a banded matrix $\mathbf{B}$, of order $n$ and band $r$ such as:
 
 $$
+
 \begin{equation}
 \mathbf{B_{r,n}} = 
 \begin{bmatrix}
@@ -28,6 +29,7 @@ $$
 
 \end{bmatrix}
 \end{equation}
+
 $$
 
 **Important, the notation $a^i_n$ does not denote the $i$th power of $a_n$.** 
