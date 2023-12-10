@@ -5,7 +5,7 @@ A fast inverse banded matrix utilities with explanations test
 
 Let it be a banded matrix $\mathbf{B}$, of order $n$ and band $r$ such as:
 
-$$
+```math
 \begin{equation}
 \mathbf{B_{r,n}} = \begin{bmatrix}
 {\color{OrangeRed}a^1_1} & {\color{LimeGreen}a^2_1} & {\color{Aquamarine}a^3_1} & \cdots & {\color{Cyan}a^r_1} & 0 & \cdots & 0\\
@@ -18,7 +18,7 @@ $$
 0 & \cdots & 0 & {\color{Pink}a^{-r}_{n-r+1}} & \cdots & {\color{Violet}a^{-3}_{n-2}} & {\color{orange}a^{-2}_{n-1}} & {\color{OrangeRed}a^1_n}\\
 \end{bmatrix}
 \end{equation}
-$$
+```
 
 **Important, the notation $a^i_n$ does not denote the $i$th power of $a_n$.** 
 
