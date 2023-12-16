@@ -1,12 +1,10 @@
-TO DO:
-
-* change a to b, m to l and k to u. If it is not problematic with the math to make everything more understandable
-
-* Check that mathbf are placed where they need to be and how they need to be
+DISCLAIMER: It is recommended to download and render the markdown file yourself, as Github has trouble rendering the math equations
 
 # fast-banded-mat-inv
 
 A fast inverse square banded matrix utilities with explanations, based on the work of Kiliç et al., 2011.
+
+Due to the fact that the implementation of this algorithm is not needed anymore, the implementation has been overlooked, but you can find below the explicited steps to implement it.
 
 # The banded matrix
 
